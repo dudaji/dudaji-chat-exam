@@ -41,4 +41,4 @@ git clone -m "Add .gitignore"
 git bundle create dudaji-chat-exam.bundle --all
 ```
 
-제출 이메일 주소: help-zoom-aaaaiilxjmgygtxnvjywr6lh3e@dudaji.slack.com
+제출 이메일 주소: human-resource-aaaajwfsaoz6ir6ralwtoesrky@dudaji.slack.com
